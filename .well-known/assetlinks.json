@@ -1,5 +1,5 @@
 Content-Type: application/json
-[
+
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
@@ -8,4 +8,4 @@ Content-Type: application/json
       "sha256_cert_fingerprints": ["56:6D:6A:3F:20:F8:5C:2A:13:17:59:3D:13:3D:87:AC:B5:ED:BC:2E:8E:F0:98:E1:67:AF:7F:AD:F7:4B:CD:0E"]
     }
   }
-]
+
