@@ -4,7 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.lecampdebucheron",
-      "sha256_cert_fingerprints": ["56:6D:6A:3F:20:F8:5C:2A:13:17:59:3D:13:3D:87:AC:B5:ED:BC:2E:8E:F0:98:E1:67:AF:7F:AD:F7:4B:CD:0E"]
+      "sha256_cert_fingerprints": ["56:6D:6A:3F:20:F8:5C:2A:13:17:59:3D:13:3D:87:AC:B5:ED:BC:2E:8E:F0:98:E1:67:AF:7F:AD:F7:4B:CD:0E",
+        "C0:E4:3A:07:38:5E:1C:D8:FA:76:44:0C:73:A3:73:9D:A2:75:58:D8:7B:98:51:97:3E:88:EE:1D:47:9A:6C:0F"]
     }
   }]
 
